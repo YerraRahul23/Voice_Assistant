@@ -40,13 +40,6 @@ The project is designed to provide a seamless user experience through natural la
 - Python 3.x
 - Microphone (for voice input)
 - Internet connection (for web API features)
-
-### Installation Steps
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/voice-assistant-project.git
-   cd voice-assistant-project
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
