@@ -1,3 +1,5 @@
+![Voice Assistant Banner](https://cdn.botpenguin.com/assets/website/How_Voice_Assistants_are_Transforming_Our_Daily_Lives_f5b64ee626.webp)
+---
 # Voice Assistant Project
 
 ## Description
